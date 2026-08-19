@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Django-Project-s
-=======
 # Health Hub
 
 A Django-based doctor recommendation system similar to 1mg, where users can search for doctors by specialization and location.
@@ -154,4 +151,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For questions or issues, please create an issue in the repository or contact the development team.
->>>>>>> 0d6ccc1 (first update)
